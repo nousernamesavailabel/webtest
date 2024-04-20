@@ -7,7 +7,7 @@ from datetime import datetime, timedelta
 import simplepush
 
 url = "https://webpt.com"
-API_KEY = "Webpt100"
+API_KEY = "APIKEY"
 
 # Dictionary to store last notification time for each response status
 last_notification_time = {}
